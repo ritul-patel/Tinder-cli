@@ -1,4 +1,4 @@
-# tinder-cli
+# Tinder-cli
 
 AI-powered Tinder automation CLI. Controls your real Chrome browser, reads profiles with computer vision, and auto-swipes based on attractiveness scoring — all free, no paid subscriptions needed.
 
