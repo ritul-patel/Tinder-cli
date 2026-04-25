@@ -1,0 +1,16 @@
+node_modules/
+dist/
+.env
+.DS_Store
+*.log
+*.csv
+temp/
+.tinder-browser-profile/
+profile_images/
+.swipe-history.json
+*.js.map
+get_images.js
+score-image-stdin.ts
+score-local-image.ts
+test-*.ts
+test-*.sh

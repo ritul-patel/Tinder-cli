@@ -1,0 +1,34 @@
+{
+  "name": "tinder-cli",
+  "version": "1.0.0",
+  "description": "AI-powered Tinder automation CLI using Groq vision (free)",
+  "main": "dist/index.js",
+  "type": "module",
+  "bin": {
+    "tinder-agent": "./dist/index.js"
+  },
+  "scripts": {
+    "build": "tsc",
+    "dev": "tsc && node dist/index.js"
+  },
+  "keywords": [
+    "tinder",
+    "ai",
+    "automation",
+    "groq",
+    "vision",
+    "cli"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.6.2",
+    "commander": "^14.0.3",
+    "dotenv": "^17.3.1",
+    "openai": "^6.29.0"
+  },
+  "devDependencies": {
+    "@types/node": "^25.5.0",
+    "typescript": "^5.9.3"
+  }
+}
